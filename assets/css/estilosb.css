@@ -1,0 +1,216 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: 0;
+}
+header {
+    background-color: #ec0014;
+}
+.img-logo1 {
+    width: 250px;
+    padding-left: 470px;
+    padding-bottom: 23px;
+}
+nav {
+    background-color: #ff2d00;
+    padding-left: 443px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    letter-spacing: 20;
+    text-decoration: none;
+}
+.homea {
+    text-decoration: none;
+}
+.noticiasa {
+    text-decoration: none;
+}
+.cursosa {
+    text-decoration: none;
+}
+.contatoa {
+    text-decoration: none;
+}
+.home {
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:#ca0114;
+    border: #ca0114;
+    border-radius: 10px;
+    font-size: medium;
+    text-decoration: none;
+}
+.home:hover {
+    background-color: #ff2d00;
+    text-decoration: none;
+}
+.noticias {
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:#ca0114;
+    border: #ca0114;
+    border-radius: 10px;
+    font-size: medium;
+    text-decoration: none;
+}
+.noticias:hover {
+    background-color: #ff2d00;
+    text-decoration: none;
+}
+.cursos {
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:#ca0114;
+    border: #ca0114;
+    border-radius: 10px;
+    font-size: medium;
+    text-decoration: none;
+}
+.cursos:hover {
+    background-color: #ff2d00;
+    text-decoration: none;
+}
+.contato {
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:#ca0114;
+    border: #ca0114;
+    border-radius: 10px;
+    font-size: medium;
+    text-decoration: none;
+}
+.contato:hover {
+    background-color: #ff2d00;
+    text-decoration: none;
+}
+
+.inicio {
+    font-size: 170%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.menina {
+    text-align:center;
+}
+
+.tia {
+    font-size: 140%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tib {
+    font-size: 140%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.alguns {
+    color: #ca0114;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.botao1 {
+    border-radius: 5px;
+    letter-spacing: 6px;
+    color: white;
+    text-align: center;
+    background:#ec0014;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.botao1:hover {
+    background: #ff2d00;
+}
+
+.botao2 {
+    border-radius: 5px;
+    letter-spacing: 6px;
+    color: white;
+    text-align: center;
+    background:#60753B;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.botao2:hover {
+    background: #ff4733;
+}
+
+.botao3 {
+    border-radius: 5px;
+    letter-spacing: 6px;
+    color: white;
+    text-align: center;
+    background:#ca0114;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.botao3:hover {
+    background: #ff2d00;
+}
+
+.botao4 {
+    border-radius: 5px;
+    letter-spacing: 6px;
+    color: white;
+    text-align: center;
+    background:#ca0114;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.botao4:hover {
+    background: #ff2d00;
+}
+
+.botoes {
+        text-align: center;
+        background:#eeeded;
+        color: black;
+        letter-spacing: 3px;
+        padding-top: 10px;
+        font-size: 260%;
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+.curso {
+    scrollbar-darkshadow-color: black 6px 6px 6px;
+
+}
+
+
+footer {
+    background-color: #a90015 ;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.img-logo2 {
+    padding-left: 450px;
+    padding-bottom: 30px;
+}
+.rodape-texto {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}

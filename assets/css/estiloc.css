@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: 0;
+}
+header {
+    background-color: #ec0014;
+}
+.img-logo1 {
+    width: 250px;
+    padding-left: 470px;
+    padding-bottom: 23px;
+}
+nav {
+    background-color: #ff2d00 ;
+    padding-left: 443px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    letter-spacing: 20;
+    text-decoration: none;
+}
+.homea {
+    text-decoration: none;
+}
+.cursosa {
+    text-decoration: none;
+}
+.contatoa {
+    text-decoration: none;
+}
+.home {
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:#ca0114 ;
+    border: #ca0114 ;
+    border-radius: 10px;
+    font-size: medium;
+    text-decoration: none;
+}
+.home:hover {
+    background-color: #ff4733 ;
+    text-decoration: none;
+}
+.cursos {
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:#ca0114 ;
+    border: #ca0114 ;
+    border-radius: 10px;
+    font-size: medium;
+    text-decoration: none;
+}
+.cursos:hover {
+    background-color: #ff4733 ;
+    text-decoration: none;
+}
+.contato {
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:#ca0114 ;
+    border: #ca0114 ;
+    border-radius: 10px;
+    font-size: medium;
+    text-decoration: none;
+}
+.contato:hover {
+    background-color: #ff4733 ;
+    text-decoration: none;
+}
+.centraliza {
+    text-align:center;
+}
+
+.titulo {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:white;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    background-image: url(cadeadinho.png);
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 110%;
+}
+
+span {
+    font-weight: bold;
+}
+
+h2 {
+    color: #a90015;
+    font-weight:bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 110%;
+}
+
+a {
+    font-size: 110%;
+    color:#a90015;
+    text-align:center;
+
+}
+
+body {
+    background-color: #eeeded;
+}
+footer {
+    background-color: #a90015;
+    padding-bottom: 20px;
+}
+.img-logo2 {
+    padding-top: 30px;
+    width: 250px;
+    padding-left: 470px;
+    padding-bottom: 23px;
+}
+.rodape-texto {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}

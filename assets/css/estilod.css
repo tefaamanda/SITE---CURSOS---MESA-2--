@@ -1,0 +1,164 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: 0;
+}
+header {
+    background-color: #ec0014;
+}
+.img-logo1 {
+    width: 250px;
+    padding-left: 470px;
+    padding-bottom: 23px;
+}
+nav {
+    background-color: #ff2d00 ;
+    padding-left: 443px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    letter-spacing: 20;
+    text-decoration: none;
+}
+.homea {
+    text-decoration: none;
+}
+.cursosa {
+    text-decoration: none;
+}
+.contatoa {
+    text-decoration: none;
+}
+.home {
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:#ca0114 ;
+    border: #ca0114 ;
+    border-radius: 10px;
+    font-size: medium;
+    text-decoration: none;
+}
+.home:hover {
+    background-color: #ff4733 ;
+    text-decoration: none;
+}
+.cursos {
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:#ca0114 ;
+    border: #ca0114 ;
+    border-radius: 10px;
+    font-size: medium;
+    text-decoration: none;
+}
+.cursos:hover {
+    background-color: #ff4733 ;
+    text-decoration: none;
+}
+.contato {
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:#ca0114 ;
+    border: #ca0114 ;
+    border-radius: 10px;
+    font-size: medium;
+    text-decoration: none;
+}
+.contato:hover {
+    background-color: #ff4733 ;
+    text-decoration: none;
+}
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 50px;
+    background-color: white;
+    margin: 200px;
+    background-size: 1px;
+}
+
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 40px;
+    font-size: xx-large;
+}
+
+header button {
+    background-color: #ca0114;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: medium;
+}
+header button:hover {
+    background-color: #ff4733;
+}
+
+div img {
+    width: 350px;
+    
+}
+
+.centralizar {
+    text-align: center;
+    padding-right: 70px;
+    padding-left: 70px;
+    padding-bottom: 30px;
+    background-color: #eeeded;
+    margin: 50px;
+}
+
+section.centralizar {
+    font-size: large;
+}
+
+section.centralizar p {
+    font-size: large;
+}
+
+.ft-de-fundo {
+    background-image: url(imgblockchain.jpg);
+    padding-bottom: 100;
+}
+
+section.centralizar ul {
+    text-align: left;
+}
+
+.imagem-centro {
+    width: 1000px;
+}
+
+.imagem-bitcoin {
+    width: 600px;
+}
+footer {
+    background-color: #a90015;
+    padding-bottom: 20px;
+}
+.img-logo2 {
+    padding-top: 30px;
+    width: 250px;
+    padding-left: 470px;
+    padding-bottom: 23px;
+}
+.rodape-texto {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
